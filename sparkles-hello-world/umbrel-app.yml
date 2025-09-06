@@ -1,29 +1,23 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+id: umbrelos
+name: Umbrel OS
+tagline: OS
+icon: https://framerusercontent.com/images/BJQvPo6Bh7rIDASbdMX8V26wUEg.png
 category: Development
 version: "1.0.0"
 port: 4000
 description: >-
-  Add your app's description here.
-
-
-  You can also add newlines!
-
+  Just run UmbrelOS into UmbrelOS
 developer: Umbrel
 website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+submitter: Kiti
+submission: https://github.com/kiti-sites/Kiti-Umbrel-App-Store
+repo: https://github.com/getumbrel/umbrel
+support: https://github.com/getumbrel/umbrel/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://framerusercontent.com/images/SeZKylkF8uNQM4KY14ISAE4Nno.png?scale-down-to=2048
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  UmbrelOS 1.4 - Files APP
 dependencies: []
 path: ""
 defaultUsername: ""
