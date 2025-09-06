@@ -3,8 +3,8 @@ id: umbrelos
 name: Umbrel OS
 tagline: OS
 icon: https://framerusercontent.com/images/BJQvPo6Bh7rIDASbdMX8V26wUEg.png
-category: Development
-version: "1.0.0"
+category: HomeLab
+version: "1.4"
 port: 4000
 description: >-
   Just run UmbrelOS into UmbrelOS
